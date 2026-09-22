@@ -5,7 +5,7 @@
     "build": "node scripts/build-zod-bundle.mjs"
   },
   "dependencies": {
-    "zod": "^4.1.0"
+    "zod": "^4.6.5"
   },
   "devDependencies": {
     "esbuild": "^0.25.5"
